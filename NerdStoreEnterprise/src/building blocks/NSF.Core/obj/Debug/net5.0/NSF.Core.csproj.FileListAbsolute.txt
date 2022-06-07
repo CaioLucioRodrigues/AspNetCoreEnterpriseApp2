@@ -1,0 +1,12 @@
+D:\Desenvolvimento\Estudo\AspNetCore\AspNetCoreEnterpriseApp\NerdStoreEnterprise\src\building blocks\NSF.Core\bin\Debug\net5.0\NSF.Core.deps.json
+D:\Desenvolvimento\Estudo\AspNetCore\AspNetCoreEnterpriseApp\NerdStoreEnterprise\src\building blocks\NSF.Core\bin\Debug\net5.0\NSF.Core.dll
+D:\Desenvolvimento\Estudo\AspNetCore\AspNetCoreEnterpriseApp\NerdStoreEnterprise\src\building blocks\NSF.Core\bin\Debug\net5.0\ref\NSF.Core.dll
+D:\Desenvolvimento\Estudo\AspNetCore\AspNetCoreEnterpriseApp\NerdStoreEnterprise\src\building blocks\NSF.Core\bin\Debug\net5.0\NSF.Core.pdb
+D:\Desenvolvimento\Estudo\AspNetCore\AspNetCoreEnterpriseApp\NerdStoreEnterprise\src\building blocks\NSF.Core\obj\Debug\net5.0\NSF.Core.csproj.AssemblyReference.cache
+D:\Desenvolvimento\Estudo\AspNetCore\AspNetCoreEnterpriseApp\NerdStoreEnterprise\src\building blocks\NSF.Core\obj\Debug\net5.0\NSF.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\Estudo\AspNetCore\AspNetCoreEnterpriseApp\NerdStoreEnterprise\src\building blocks\NSF.Core\obj\Debug\net5.0\NSF.Core.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Estudo\AspNetCore\AspNetCoreEnterpriseApp\NerdStoreEnterprise\src\building blocks\NSF.Core\obj\Debug\net5.0\NSF.Core.AssemblyInfo.cs
+D:\Desenvolvimento\Estudo\AspNetCore\AspNetCoreEnterpriseApp\NerdStoreEnterprise\src\building blocks\NSF.Core\obj\Debug\net5.0\NSF.Core.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Estudo\AspNetCore\AspNetCoreEnterpriseApp\NerdStoreEnterprise\src\building blocks\NSF.Core\obj\Debug\net5.0\NSF.Core.dll
+D:\Desenvolvimento\Estudo\AspNetCore\AspNetCoreEnterpriseApp\NerdStoreEnterprise\src\building blocks\NSF.Core\obj\Debug\net5.0\ref\NSF.Core.dll
+D:\Desenvolvimento\Estudo\AspNetCore\AspNetCoreEnterpriseApp\NerdStoreEnterprise\src\building blocks\NSF.Core\obj\Debug\net5.0\NSF.Core.pdb
